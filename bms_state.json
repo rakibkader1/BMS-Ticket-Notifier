@@ -19,9 +19,9 @@
   },
   "dates": {
     "20260920": "BOOKABLE",
-    "20260921": "NOT_OPEN",
-    "20260922": "NOT_OPEN",
-    "20260923": "NOT_OPEN",
+    "20260921": "AVAILABLE",
+    "20260922": "AVAILABLE",
+    "20260923": "AVAILABLE",
     "20260924": "NOT_OPEN",
     "20260925": "NOT_OPEN",
     "20260926": "NOT_OPEN"
