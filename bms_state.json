@@ -1,29 +1,29 @@
 {
   "shows": {
-    "FSCK|150115|20260919|PICTURE PERFECT": {
+    "FSCK|150122|20260920|PICTURE PERFECT": {
       "venue": "INOX: South City, Kolkata",
       "time": "01:20 PM",
-      "date": "20260919",
+      "date": "20260920",
       "cat": "PICTURE PERFECT",
       "price": "550.00",
-      "status": "1"
+      "status": "2"
     },
-    "FSCK|150115|20260919|SILVER": {
+    "FSCK|150122|20260920|SILVER": {
       "venue": "INOX: South City, Kolkata",
       "time": "01:20 PM",
-      "date": "20260919",
+      "date": "20260920",
       "cat": "SILVER",
       "price": "440.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260919": "BOOKABLE",
-    "20260920": "AVAILABLE",
+    "20260920": "BOOKABLE",
     "20260921": "NOT_OPEN",
     "20260922": "NOT_OPEN",
     "20260923": "NOT_OPEN",
     "20260924": "NOT_OPEN",
-    "20260925": "NOT_OPEN"
+    "20260925": "NOT_OPEN",
+    "20260926": "NOT_OPEN"
   }
 }
