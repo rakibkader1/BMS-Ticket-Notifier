@@ -22,7 +22,7 @@
       "date": "20260929",
       "cat": "PICTURE PERFECT",
       "price": "329.00",
-      "status": "3"
+      "status": "2"
     },
     "FSCK|150543|20260929|SILVER": {
       "venue": "INOX: South City, Kolkata",
@@ -52,7 +52,7 @@
   "dates": {
     "20260929": "BOOKABLE",
     "20260930": "AVAILABLE",
-    "20261001": "NOT_OPEN",
+    "20261001": "AVAILABLE",
     "20261002": "NOT_OPEN",
     "20261003": "NOT_OPEN",
     "20261004": "NOT_OPEN",
