@@ -1,29 +1,77 @@
 {
   "shows": {
-    "FSCK|150549|20260930|PICTURE PERFECT": {
+    "FSCK|150600|20261001|PICTURE PERFECT": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "09:00 AM",
+      "date": "20261001",
+      "cat": "PICTURE PERFECT",
+      "price": "320.00",
+      "status": "3"
+    },
+    "FSCK|150600|20261001|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "09:00 AM",
+      "date": "20261001",
+      "cat": "SILVER",
+      "price": "290.00",
+      "status": "3"
+    },
+    "FSCK|150601|20261001|PICTURE PERFECT": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "12:40 PM",
+      "date": "20261001",
+      "cat": "PICTURE PERFECT",
+      "price": "380.00",
+      "status": "3"
+    },
+    "FSCK|150601|20261001|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "12:40 PM",
+      "date": "20261001",
+      "cat": "SILVER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "FSCK|150602|20261001|PICTURE PERFECT": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "04:25 PM",
+      "date": "20261001",
+      "cat": "PICTURE PERFECT",
+      "price": "430.00",
+      "status": "3"
+    },
+    "FSCK|150602|20261001|SILVER": {
+      "venue": "INOX: South City, Kolkata",
+      "time": "04:25 PM",
+      "date": "20261001",
+      "cat": "SILVER",
+      "price": "370.00",
+      "status": "3"
+    },
+    "FSCK|150604|20261001|PICTURE PERFECT": {
       "venue": "INOX: South City, Kolkata",
       "time": "11:55 PM",
-      "date": "20260930",
+      "date": "20261001",
       "cat": "PICTURE PERFECT",
       "price": "400.00",
       "status": "3"
     },
-    "FSCK|150549|20260930|SILVER": {
+    "FSCK|150604|20261001|SILVER": {
       "venue": "INOX: South City, Kolkata",
       "time": "11:55 PM",
-      "date": "20260930",
+      "date": "20261001",
       "cat": "SILVER",
       "price": "370.00",
       "status": "3"
     }
   },
   "dates": {
-    "20260930": "BOOKABLE",
-    "20261001": "AVAILABLE",
+    "20261001": "BOOKABLE",
     "20261002": "AVAILABLE",
     "20261003": "AVAILABLE",
     "20261004": "AVAILABLE",
     "20261005": "NOT_OPEN",
-    "20261006": "NOT_OPEN"
+    "20261006": "NOT_OPEN",
+    "20261007": "NOT_OPEN"
   }
 }
