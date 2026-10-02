@@ -6,14 +6,14 @@
       "date": "20261002",
       "cat": "PICTURE PERFECT",
       "price": "430.00",
-      "status": "1"
+      "status": "0"
     },
     "FSCK|150630|20261002|SILVER": {
       "venue": "INOX: South City, Kolkata",
       "time": "10:25 AM",
       "date": "20261002",
       "cat": "SILVER",
-      "price": "400.00",
+      "price": "350.00",
       "status": "3"
     }
   },
